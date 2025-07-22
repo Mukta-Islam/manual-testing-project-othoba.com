@@ -21,6 +21,15 @@ The mind map visually represents the testing scope, objectives, and focus areas.
 <br>
 Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the Test Cases execution result.xlsx file.
 <br>
+<img <img width="1905" height="849" alt="image" src="https://github.com/user-attachments/assets/d6617a90-4c2e-40ea-95d3-f016c8f7a141" />
+<br>
+<br>
+<br>
+<h1>Report</h1>
+The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results. The test report can be found in the Full Report Report.xlsx file.
+<br>
+<img
+
 
 
 
