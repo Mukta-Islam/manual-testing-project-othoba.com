@@ -35,7 +35,8 @@ The test report summarizes the testing activities, including the number of test 
 <br>
 If any issues or defects are identified during testing, they should be reported using the bug report template provided in the Bug Report.xlsx file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
 <br>
-<img
+<img <img width="1114" height="468" alt="image" src="https://github.com/user-attachments/assets/723db985-d4aa-4ef0-966a-9da9a18c995c" />
+
 
 
 
