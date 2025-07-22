@@ -8,4 +8,10 @@ This repository is dedicated to the manual testing of the Othoba.com Frontend ap
 <br>
 The test scenarios provide a list of high-level scenarios to be tested, helping testers understand what to focus on during testing. These scenarios are listed in the Test scenario.xlsx file.
 <img <img width="907" height="660" alt="image" src="https://github.com/user-attachments/assets/bb25b6e4-2899-467e-adc6-dc8fe76b4623" />
+<br>
+<br>
+<h1>Mind Map</h1>
+<br>
+The mind map visually represents the testing scope, objectives, and focus areas. It serves as a high-level guide for testers to understand the testing landscape.
+
 
