@@ -28,7 +28,15 @@ Detailed test cases are documented to ensure systematic testing of the applicati
 <h1>Report</h1>
 The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results. The test report can be found in the Full Report Report.xlsx file.
 <br>
+<img <img width="954" height="400" alt="image" src="https://github.com/user-attachments/assets/0c1441bc-a8c4-4451-9b04-50de3eebd642" />
+<br>
+<br>
+<h1>Bug Report</h1>
+<br>
+If any issues or defects are identified during testing, they should be reported using the bug report template provided in the Bug Report.xlsx file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
+<br>
 <img
+
 
 
 
